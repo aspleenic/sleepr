@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Used as an example for a blog post - not a great deal of usefulness in real world apps...unless you want to make that happen :)
 
 ## Contributing
 
