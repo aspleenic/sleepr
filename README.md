@@ -1,6 +1,6 @@
 # Sleepr
 
-TODO: Write a gem description
+Used to point out when people using our app are doing so after hours and should just go to sleep.
 
 ## Installation
 
